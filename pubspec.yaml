@@ -37,6 +37,7 @@ dependencies:
   enough_mail: ^2.1.6
   html: ^0.15.6
   flutter_secure_storage: ^4.2.1
+  intl: ^0.18.1
 
 dev_dependencies:
   flutter_test:

@@ -1,16 +1,21 @@
-# maiit
+# Mail Client
 
-A new Flutter project.
+A Pclub Secy Task.
 
-## Getting Started
+## How to run
 
-This project is a starting point for a Flutter application.
+## Make sure following
+- You have flutter installed
+- you have Android NDK-27(version) installed
 
-A few resources to get you started if this is your first Flutter project:
+```bash
+flutter pub add flutter_secure_storage html enough_mail intl
+```
 
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
+```bash
+flutter build apk
+```
 
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+or use any method you want to use like enumulator or direct phone using usb debugging
+
+## Note : Not tested on Desktop on testing on using USB debugging
